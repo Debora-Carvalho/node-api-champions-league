@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Lionel Messi",
+        "club": "Paris Saind-Germain",
+        "nationality": "Argentina",
+        "position": "Forward",
+        "statistics": {
+            "Overall": 93,
+            "Pace": 85,
+            "Shooting": 94,
+            "Passing": 91,
+            "Dribbling": 95,
+            "Defending": 38,
+            "Phisical": 65
+        }
+    },
+    {
+        "id": 2,
+        "name": "Alisson Becker",
+        "club": "Liverpool",
+        "nationality": "Brazil",
+        "position": "Goalkeeper",
+        "statistics": {
+            "Overall": 87,
+            "Pace": 84,
+            "Shooting": 70,
+            "Passing": 86,
+            "Dribbling": 82,
+            "Defending": 85,
+            "Phisical": 77
+        }
+    },
+    {
+        "id": 3,
+        "name": "David Beckham",
+        "club": "Retired",
+        "nationality": "England",
+        "position": "Midfielder",
+        "statistics": {
+            "Overall": 85,
+            "Pace": 76,
+            "Shooting": 82,
+            "Passing": 90,
+            "Dribbling": 84,
+            "Defending": 70,
+            "Phisical": 72
+        }
+    }
+]
