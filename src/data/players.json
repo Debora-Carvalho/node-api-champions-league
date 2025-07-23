@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "name": "Lionel Messi",
+        "club": "Paris Saint-Germain",
+        "nationality": "Argentina",
+        "position": "Forward",
+        "statistics": {
+            "Overall": 93,
+            "Pace": 85,
+            "Shooting": 94,
+            "Passing": 91,
+            "Dribbling": 95,
+            "Defending": 38,
+            "Phisical": 65
+        }
+    },
+    {
+        "id": 2,
+        "name": "Alisson Becker",
+        "club": "Liverpool",
+        "nationality": "Brazil",
+        "position": "Goalkeeper",
+        "statistics": {
+            "Overall": 87,
+            "Pace": 84,
+            "Shooting": 70,
+            "Passing": 86,
+            "Dribbling": 82,
+            "Defending": 85,
+            "Phisical": 77
+        }
+    },
+    {
+        "id": 3,
+        "name": "David Beckham",
+        "club": "Retired",
+        "nationality": "England",
+        "position": "Midfielder",
+        "statistics": {
+            "Overall": 85,
+            "Pace": 76,
+            "Shooting": 82,
+            "Passing": 90,
+            "Dribbling": 84,
+            "Defending": 70,
+            "Phisical": 72
+        }
+    },
+    {
+        "id": 4,
+        "name": "Kylian Mbappé",
+        "club": "Paris Saint-Germain",
+        "nationality": "France",
+        "position": "Forward",
+        "statistics": {
+            "Overall": 91,
+            "Pace": 97,
+            "Shooting": 86,
+            "Passing": 80,
+            "Dribbling": 92,
+            "Defending": 36,
+            "Phisical": 77
+        }
+    },
+    {
+        "id": 5,
+        "name": "Kevin De Bruyne",
+        "club": "Manchester City",
+        "nationality": "Belgium",
+        "position": "Midfielder",
+        "statistics": {
+            "Overall": 91,
+            "Pace": 76,
+            "Shooting": 86,
+            "Passing": 93,
+            "Dribbling": 88,
+            "Defending": 64,
+            "Phisical": 78
+        }
+    },
+    {
+        "id": 6,
+        "name": "Robert Lewandowski",
+        "club": "Barcelona",
+        "nationality": "Poland",
+        "position": "Forward",
+        "statistics": {
+            "Overall": 92,
+            "Pace": 78,
+            "Shooting": 92,
+            "Passing": 79,
+            "Dribbling": 86,
+            "Defending": 44,
+            "Phisical": 82
+        }
+    },
+    {
+        "id": 7,
+        "name": "Virgil van Dijk",
+        "club": "Liverpool",
+        "nationality": "Netherlands",
+        "position": "Defender",
+        "statistics": {
+            "Overall": 89,
+            "Pace": 77,
+            "Shooting": 60,
+            "Passing": 71,
+            "Dribbling": 72,
+            "Defending": 91,
+            "Phisical": 86
+        }
+    },
+    {
+        "id": 8,
+        "name": "Karim Benzema",
+        "club": "Real Madrid",
+        "nationality": "France",
+        "position": "Forward",
+        "statistics": {
+            "Overall": 91,
+            "Pace": 79,
+            "Shooting": 90,
+            "Passing": 83,
+            "Dribbling": 87,
+            "Defending": 39,
+            "Phisical": 78
+        }
+    },
+    {
+        "id": 9,
+        "name": "Thibaut Courtois",
+        "club": "Real Madrid",
+        "nationality": "Belgium",
+        "position": "Goalkeeper",
+        "statistics": {
+            "Overall": 89,
+            "Pace": 52,
+            "Shooting": 50,
+            "Passing": 60,
+            "Dribbling": 48,
+            "Defending": 46,
+            "Phisical": 79
+        }
+    },
+    {
+        "id": 10,
+        "name": "Erling Haaland",
+        "club": "Manchester City",
+        "nationality": "Norway",
+        "position": "Forward",
+        "statistics": {
+            "Overall": 90,
+            "Pace": 89,
+            "Shooting": 91,
+            "Passing": 65,
+            "Dribbling": 80,
+            "Defending": 45,
+            "Phisical": 88
+        }
+    }
+]
